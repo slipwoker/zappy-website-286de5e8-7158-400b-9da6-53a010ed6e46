@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://euroscope-286de5e8.zappy5.app
+https://example.com
 קבלו את כל העדכונים השוטפים מעולם החדשות והמדיה במקום אחד. EuroScope מביא לכם סיפורים בוערים, דיווחים אמינים ותוכן שחייבים לקרוא — היכנסו עכשיו וגלו עולם של מידע.
 
 ### תכונות
-https://euroscope-286de5e8.zappy5.app/features
+https://example.com/features
 גלו תכונות מתקדמות שמעצימות את חוויית החדשות שלכם. מסינון תוכן חכם ועד התראות בזמן אמת — EuroScope נותן לכם שליטה מלאה על המידע. הצטרפו לחזית העיתונות הדיגיטלית.
 
 ### אודות
-https://euroscope-286de5e8.zappy5.app/about
+https://example.com/about
 מי אנחנו ולמה אנחנו קמים כל בוקר לספר לכם סיפורים? הכירו את EuroScope — צוות של אנשי מדיה שמאמינים בחדשות נטולות פשרות. קראו על החזון שלנו והצטרפו למסע לעבר אמת עיתונאית.
 
 ### צור קשר
-https://euroscope-286de5e8.zappy5.app/contact
+https://example.com/contact
 יש לכם טיפ עיתונאי, שאלה או רעיון לשיתוף פעולה? צרו קשר עם מערכת EuroScope עוד היום. אנחנו כאן להקשיב, לחקור ולפרסם — ביחד נעצב את פני החדשות והמדיה. שלחו הודעה עכשיו.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://euroscope-286de5e8.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://euroscope-286de5e8.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://euroscope-286de5e8.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://euroscope-286de5e8.zappy5.app/contact
-- Endpoint: https://euroscope-286de5e8.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -73,6 +73,6 @@ News & Media
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://euroscope-286de5e8.zappy5.app/sitemap.xml
-- Robots: https://euroscope-286de5e8.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://euroscope-286de5e8.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
