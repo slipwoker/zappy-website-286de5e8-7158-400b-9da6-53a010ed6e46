@@ -1,0 +1,78 @@
+# EuroScope — Generative Engine Optimization Map
+
+> A news website focused on delivering news content to readers. The specific niche, tone, and focus areas of the news platform have not yet been defined.
+
+---
+
+## Pages
+
+### בית
+https://euroscope-286de5e8.zappy5.app
+קבלו את כל העדכונים השוטפים מעולם החדשות והמדיה במקום אחד. EuroScope מביא לכם סיפורים בוערים, דיווחים אמינים ותוכן שחייבים לקרוא — היכנסו עכשיו וגלו עולם של מידע.
+
+### תכונות
+https://euroscope-286de5e8.zappy5.app/features
+גלו תכונות מתקדמות שמעצימות את חוויית החדשות שלכם. מסינון תוכן חכם ועד התראות בזמן אמת — EuroScope נותן לכם שליטה מלאה על המידע. הצטרפו לחזית העיתונות הדיגיטלית.
+
+### אודות
+https://euroscope-286de5e8.zappy5.app/about
+מי אנחנו ולמה אנחנו קמים כל בוקר לספר לכם סיפורים? הכירו את EuroScope — צוות של אנשי מדיה שמאמינים בחדשות נטולות פשרות. קראו על החזון שלנו והצטרפו למסע לעבר אמת עיתונאית.
+
+### צור קשר
+https://euroscope-286de5e8.zappy5.app/contact
+יש לכם טיפ עיתונאי, שאלה או רעיון לשיתוף פעולה? צרו קשר עם מערכת EuroScope עוד היום. אנחנו כאן להקשיב, לחקור ולפרסם — ביחד נעצב את פני החדשות והמדיה. שלחו הודעה עכשיו.
+
+## Legal & Policy
+
+### Privacy Policy
+https://euroscope-286de5e8.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://euroscope-286de5e8.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://euroscope-286de5e8.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://euroscope-286de5e8.zappy5.app/contact
+- Endpoint: https://euroscope-286de5e8.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About EuroScope
+A news website focused on delivering news content to readers. The specific niche, tone, and focus areas of the news platform have not yet been defined.
+
+## Target Audience
+- חובבי חדשות אירופה
+- גולים באירופה
+- מקצוענים צעירים שמתעניינים בעניינים גלובליים
+
+## Industry
+News & Media
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://euroscope-286de5e8.zappy5.app/sitemap.xml
+- Robots: https://euroscope-286de5e8.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://euroscope-286de5e8.zappy5.app/llms-full.txt
